@@ -1,0 +1,48 @@
+/*
+  COLOR SCHEME:
+  * COLOR 1 -#DEC04D
+  * COLOR 2 -#000000
+  * COLOR 3 -yellow
+  * COLOR 4 -#aa80ff
+*/
+
+body {
+  font-size: 1em;
+  font-weight: normal;
+  font-family: arial, sans-serif;
+  color: #000000; /* black */
+  text-align: left;
+  background-color:  #aa80ff;
+  font-family: cursive;
+  max-width: 75%;
+  margin: 0 auto;
+}
+h1 {
+  font-size: 1.8em;
+  font-weight: bold;
+  color: #DEC04D; /* blue */
+  text-align: center;
+  text-shadow: 2px 2px black;
+}
+
+h2 {
+font-size: 1.7em;
+font-weight: 200;
+color: #DEC04D;
+text-shadow: 2px 2px black;
+}
+
+a {
+font-weight: bold;
+}
+
+li {
+
+}
+
+p {
+  font-size: 1.2em;
+  font-weight: 600;
+  color: #000000;
+  text-shadow: 1px 1px yellow;
+}

@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
+#project{
+background-color: #aa80ff;
+font-size: 1.9em;
+text-shadow:2px 2px lime;
+text-align: center;
+width: 35em;
+font-weight: 900;
+font-stretch: expanded;
+font-family: "Indie Flower";
+padding-bottom: 4em;
+line-height: 1.5;
+}
+
+
+#quote2{
+background-color: #aa80ff;
+text-shadow: 2px 2px lime;
+text-align: center;
+font-weight: 900;
+font-size: 1.9em;
+font-stretch: expanded;
+width: 35em;
+font-family: "Architects Daughter";
+line-height: 1.2;
+letter-spacing: 1.5px;
+
+
+
+}
