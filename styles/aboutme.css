@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Merriweather:400,700|Oswald|Roboto');
 
 
-
 body{
 background: #eee;
 color: #444;
@@ -48,7 +47,7 @@ display: block;
 clear: both;
 }
 
-#bioDetail{
+.bioDetails{
 width: 20%;
 float: left;
 }
@@ -73,5 +72,5 @@ div ul{
 nav ul li{
   float: left;
   width: 12%;
-  margin-bottom: 30%;
+  margin-bottom: 30px;
 }
